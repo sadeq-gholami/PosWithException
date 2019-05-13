@@ -1,0 +1,9 @@
+*.swp
+*.class
+*.classpath
+/POS/bin/*
+lib/apiguardian-api-1.0.0.jar
+lib/junit-jupiter-api-5.5.0-M1.jar
+lib/junit-platform-commons-1.5.0-M1.jar
+lib/opentest4j-1.1.1.jar
+/bin/

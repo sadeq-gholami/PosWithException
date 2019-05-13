@@ -1,0 +1,8 @@
+13/05/19 12:03:48; the following Exception has been accured: 
+exception message: the item with the identifer: 98765432 does not exist
+ stack trace: 
+
+controller.InvalidItemIdentifierException: the item with the identifer: 98765432 does not exist
+	at controller.Controller.addItem(Controller.java:54)
+	at view.View.runFakeSale(View.java:35)
+	at startUp.Main.main(Main.java:28)
